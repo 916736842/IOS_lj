@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>jzcxhq.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>554FCA9AA74D2CAF38AA3C451D9F8B6BA57E5127</string>
+				<key>dateExpires</key>
+				<string>2021/11/22</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>6AWY78P8SD.PRXHhqhuoqu</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>6AWY78P8SD</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>6AWY78P8SD.PRXHhqhuoqu</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>ScrollViewInAutolayout-Vertical.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>4a154c76-69cc-47cf-888e-c911d9f2bdad</string>
+				<key>name</key>
+				<string>PRXHhqhuoqu</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>6AWY78P8SD</string>
+				<key>name</key>
+				<string>DONGFENG LIUZHOU MOTOR CO.,LTD</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
