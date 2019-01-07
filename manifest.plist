@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/916736842/IOS_lj/raw/master/jzcxhq.ipa</string>
+					<string>https://cvm2.dflzm.com/Content/css/login/images/jzcxh/jzcxhq.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://cvm2.dflzm.com/Content/css/login/images/tup.png</string>
+					<string>https://cvm2.dflzm.com/Content/css/login/images/jzcxh/360.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://cvm2.dflzm.com/Content/css/login/images/tup.png</string>
+					<string>https://cvm2.dflzm.com/Content/css/login/images/jzcxh/360.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>基站信号获取</string>
+				<string>PRXHhqhuoqu</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>ScrollViewInAutolayout-Vertical</string>
+				<string>基站信号获取</string>
 			</dict>
 		</dict>
 	</array>
